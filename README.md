@@ -80,11 +80,11 @@
     <a name="readme-body-preview"></a>
         <h3>Résultat :</h3>
         <div id="readme-body-preview" align="center">
-            <video id="readme-body-preview-navbar-accueil" src="./assets/images/preview/Navbar+Accueil.mp4" srcset="./assets/images/preview/Navbar+Accueil.mp4" controls autoplay loop muted></video>
-            <video id="readme-body-preview-parcours" src="./assets/images/preview/Parcours.mp4" srcset="./assets/images/preview/Parcours.mp4" controls autoplay loop muted></video>
+            <video id="readme-body-preview-navbar-accueil" src="https://github.com/user-attachments/assets/7694a12a-81d0-46b2-9193-f19ac07a9ee5" srcset="./assets/images/preview/Navbar+Accueil.mp4" controls autoplay loop muted></video>
+            <video id="readme-body-preview-parcours" src="https://github.com/user-attachments/assets/1002849e-de88-474c-bd21-d534f98850ea" srcset="./assets/images/preview/Parcours.mp4" controls autoplay loop muted></video>
             <img id="readme-body-preview-competences" src="./assets/images/preview/Competences.png" alt="Compétences" />
-            <video id="readme-body-preview-projets" src="./assets/images/preview/Projets.mp4" srcset="./assets/images/preview/Projets.mp4" controls autoplay loop muted></video>
-            <video id="readme-body-preview-contact" src="./assets/images/preview/Contact.mp4" srcset="./assets/images/preview/Contact.mp4" controls autoplay loop muted></video>
+            <video id="readme-body-preview-projets" src="https://github.com/user-attachments/assets/0dedd2d0-9337-48b2-b993-877c3998396f" srcset="./assets/images/preview/Projets.mp4" controls autoplay loop muted></video>
+            <video id="readme-body-preview-contact" src="https://github.com/user-attachments/assets/c33c18e7-dc02-49cb-83ef-d7b5139164c1" srcset="./assets/images/preview/Contact.mp4" controls autoplay loop muted></video>
             <img id="readme-body-preview-footer" src="./assets/images/preview/Footer.png" alt="Footer" />
         </div>
     <a name="readme-body-warnings"></a>
